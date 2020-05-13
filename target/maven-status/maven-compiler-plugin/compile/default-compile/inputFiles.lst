@@ -1,0 +1,8 @@
+/Users/valqueline.silva/projects/personal/address/src/main/java/com/projects/address/domains/User.java
+/Users/valqueline.silva/projects/personal/address/src/main/java/com/projects/address/AddressApplication.java
+/Users/valqueline.silva/projects/personal/address/src/main/java/com/projects/address/gateways/mongo/UserMongoGateway.java
+/Users/valqueline.silva/projects/personal/address/src/main/java/com/projects/address/domains/Address.java
+/Users/valqueline.silva/projects/personal/address/src/main/java/com/projects/address/domains/Category.java
+/Users/valqueline.silva/projects/personal/address/src/main/java/com/projects/address/gateways/mongo/repository/UserRepository.java
+/Users/valqueline.silva/projects/personal/address/src/main/java/com/projects/address/gateways/mongo/UserGateway.java
+/Users/valqueline.silva/projects/personal/address/src/main/java/com/projects/address/controller/UserController.java

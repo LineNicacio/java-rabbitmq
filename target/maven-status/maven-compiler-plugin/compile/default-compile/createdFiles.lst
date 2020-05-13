@@ -1,0 +1,8 @@
+com/projects/address/domains/Category.class
+com/projects/address/gateways/mongo/UserGateway.class
+com/projects/address/controller/UserController.class
+com/projects/address/gateways/mongo/UserMongoGateway.class
+com/projects/address/gateways/mongo/repository/UserRepository.class
+com/projects/address/domains/Address.class
+com/projects/address/domains/User.class
+com/projects/address/AddressApplication.class
